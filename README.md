@@ -9,7 +9,7 @@ Hello! I’m Sunny, a 20-year-old self-taught programmer from Michigan. I've lea
 - Designing GUI's in Figma.
 - Playing Minecraft
 - Drawing
-- Codin
+- Coding
 
 ---
 
