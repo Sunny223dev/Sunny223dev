@@ -26,7 +26,6 @@ Hello! I’m Sunny, a 20-year-old self-taught programmer from Michigan. I've lea
 ## 🌐 Contact Me
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1086521731587518494)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/sunny223dev?lang=en)
 [![Website](https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=earth&logoColor=white)](https://sunny223.dev)
 
 ## 📊 GitHub Stats
